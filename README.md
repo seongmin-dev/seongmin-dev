@@ -4,6 +4,5 @@
 ![](https://img.shields.io/badge/RxSwift-B7178C.svg?style=flat&logo=reactivex&logoColor=white)
 ![](https://img.shields.io/badge/Combine-D5368E)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=seongmin-dev)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=k2417000)](https://solved.ac/k2417000)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=seongmin-dev)](https://github.com/anuraghazra/github-readme-stats)
